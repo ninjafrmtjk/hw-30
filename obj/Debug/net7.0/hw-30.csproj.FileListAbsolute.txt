@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\bin\Debug\net7.0\hw-30.exe
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\bin\Debug\net7.0\hw-30.deps.json
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\bin\Debug\net7.0\hw-30.runtimeconfig.json
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\bin\Debug\net7.0\hw-30.dll
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\bin\Debug\net7.0\hw-30.pdb
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.dll
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\refint\hw-30.dll
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.pdb
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\hw-30.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dotnet hw's\hw-30\obj\Debug\net7.0\ref\hw-30.dll
